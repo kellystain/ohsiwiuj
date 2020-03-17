@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thahcagoak.svatbavzari.cz/sitemap.xml
